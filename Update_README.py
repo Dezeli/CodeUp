@@ -1,6 +1,6 @@
 import os
 
-Programing_Languages = ["C & C++"]
+Programing_Languages = ["C_C++"]
 readme = open(f"./README.md", "w", encoding="UTF-8")
 readme.write(
     "## CodeUp Solutions   \nhttps://codeup.kr/   \n"
