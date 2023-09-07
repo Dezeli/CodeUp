@@ -20,3 +20,5 @@ https://codeup.kr/
 - [1018 : nclude <stdio.h>](./C&C++/1018.cpp)    
 - [1019 : nclude <stdio.h>](./C&C++/1019.cpp)    
 - [1020 : nclude <stdio.h>](./C&C++/1020.cpp)    
+- [1021 : nclude <stdio.h>](./C&C++/1021.cpp)    
+- [1022 : nclude <stdio.h>](./C&C++/1022.cpp)    
