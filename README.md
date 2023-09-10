@@ -26,3 +26,5 @@ https://codeup.kr/
 - [1024 : nclude <stdio.h>](./C&C++/1024.cpp)    
 - [1025 : nclude <stdio.h>](./C&C++/1025.cpp)    
 - [1026 : nclude <stdio.h>](./C&C++/1026.cpp)    
+- [1027 : nclude <stdio.h>](./C&C++/1027.cpp)    
+- [1028 : nclude <stdio.h>](./C&C++/1028.cpp)    
