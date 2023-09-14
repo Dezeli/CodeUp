@@ -34,3 +34,5 @@ https://codeup.kr/
 - [1032 : nclude <stdio.h>](./C&C++/1032.cpp)    
 - [1033 : nclude <stdio.h>](./C&C++/1033.cpp)    
 - [1034 : nclude <stdio.h>](./C&C++/1034.cpp)    
+- [1035 : nclude <stdio.h>](./C&C++/1035.cpp)    
+- [1036 : nclude <stdio.h>](./C&C++/1036.cpp)    
