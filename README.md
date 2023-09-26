@@ -44,3 +44,7 @@ https://codeup.kr/
 - [1042 : nclude <stdio.h>](./C&C++/1042.cpp)    
 - [1043 : nclude <stdio.h>](./C&C++/1043.cpp)    
 - [1044 : nclude <stdio.h>](./C&C++/1044.cpp)    
+- [1045 : nclude <stdio.h>](./C&C++/1045.cpp)    
+- [1046 : nclude <stdio.h>](./C&C++/1046.cpp)    
+- [1047 : nclude <stdio.h>](./C&C++/1047.cpp)    
+- [1048 : nclude <stdio.h>](./C&C++/1048.cpp)    
