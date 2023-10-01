@@ -54,3 +54,7 @@ https://codeup.kr/
 - [1052 : nclude <stdio.h>](./C&C++/1052.cpp)    
 - [1053 : nclude <stdio.h>](./C&C++/1053.cpp)    
 - [1054 : nclude <stdio.h>](./C&C++/1054.cpp)    
+- [1055 : nclude <stdio.h>](./C&C++/1055.cpp)    
+- [1056 : nclude <stdio.h>](./C&C++/1056.cpp)    
+- [1057 : nclude <stdio.h>](./C&C++/1057.cpp)    
+- [1058 : nclude <stdio.h>](./C&C++/1058.cpp)    
