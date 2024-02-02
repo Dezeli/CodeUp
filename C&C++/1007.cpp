@@ -1,3 +1,4 @@
+//[기초-출력] 출력하기07(설명)
 #include <stdio.h>
 
 int main(){
